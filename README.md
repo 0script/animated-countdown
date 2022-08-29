@@ -10,13 +10,12 @@
 * **html**  
 * **css/css-animation**  
 * **javascript**  
-## Features  
-* can ***feature1***  
-* can ***feature2***
 
 ## Setup
-short setup description  
+Open the index.html file in your web browser of choice
 ```shell  
 #setup shell cmd  
-$git clone git@github...  
+$git clone https://github.com/0script/animated-countdown
+$cd animated-countdown/
+$nohup firefox index.html &
 ```
