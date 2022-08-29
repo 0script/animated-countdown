@@ -1,8 +1,7 @@
 # animated-countdown  
 ## Table of content  
 * [About the project](#about-the-project)  
-* [Technologies](#technologies)  
-* [Features](#features)  
+* [Technologies](#technologies)    
 * [Setup](#setup)  
 ## About the project  
 >Simple animated countdown browser application  
